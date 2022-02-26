@@ -1,0 +1,65 @@
+@import "../../sass/fonts";
+
+.subscribe-card {
+  display: flex;
+  flex-direction: column;
+  width: 60rem;
+  font-size: 2rem;
+  background-color: rgba(255, 255, 255, 0.945);
+  border-radius: 4px;
+  padding: 2rem 4rem;
+
+  &-link {
+    color: #fff;
+    // background: linear-gradient(to left, #722523, rgb(97, 13, 17));
+    background: rgb(97, 13, 17);
+    // background: linear-gradient(to left, #722523, rgb(97, 13, 17));
+    text-decoration: none;
+    text-align: center;
+    margin-bottom: 4rem;
+    border-radius: 4px;
+    padding: 1rem;
+    transition: 0.2s;
+
+    &:hover {
+      background: rgb(77, 11, 14);
+    }
+  }
+
+  &-label {
+  }
+
+  &-input {
+    padding: 1rem;
+    margin-bottom: 2rem;
+    border-radius: 4px;
+    outline: none;
+    border: 1px solid #ccc;
+    font-family: $font-family;
+  }
+
+  &-btn {
+    padding: 1rem;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    color: #fff;
+    background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+    cursor: pointer;
+    font-family: $font-family;
+    letter-spacing: 0.2rem;
+    transition: 0.5s;
+
+    &:hover {
+      background-color: #0f0c29;
+    }
+
+    &-subscribed {
+      padding: 1rem;
+      color: #fff;
+      background-color: #38a71b;
+      font-weight: 600;
+      cursor: auto;
+    }
+  }
+}

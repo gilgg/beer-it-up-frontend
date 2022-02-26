@@ -1,25 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.scss";
+import { Switch, Route, Redirect } from "react-router-dom";
+import HomePage from "./pages/HomePage";
+import BeerPage from "./pages/BeerPage";
+import BeersPage from "./pages/BeersPage";
+import { useState } from "react";
 
-function App() {
+const App = () => {
+  const [selectedBeer, setSelectedBeer] = useState(null);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app">
+      <Switch>
+        <Route path="/" exact>
+          <HomePage />
+        </Route>
+        <Route path="/beers" exact>
+          <BeersPage setSelectedBeer={setSelectedBeer} />
+        </Route>
+        <Route path="/beers/:id">
+          <BeerPage beer={selectedBeer} />
+        </Route>
+        <Route path="*">
+          <Redirect to="/" />
+        </Route>
+      </Switch>
     </div>
   );
-}
+};
 
 export default App;

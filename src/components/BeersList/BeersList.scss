@@ -1,0 +1,16 @@
+.beers-list {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  img {
+    height: 40%;
+    width: 40%;
+    object-fit: contain;
+  }
+}
+
+.beers-list-container {
+  width: 60%;
+  margin: 0 auto;
+}

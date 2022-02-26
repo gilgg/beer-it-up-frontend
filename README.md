@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+![Beer-It-Up Banner](https://i.ibb.co/6RCB2w2/beer-it-up-banner.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Contents
 
-## Available Scripts
+- [Overview](#overview-)
+- [Technologies](#technologies-)
+- [Screenshots](#screenshots-)
+- [Video](#video-)
 
-In the project directory, you can run:
+<br />
 
-### `npm start`
+# Overview 👋
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Are your a beer geek? On Beer-It-Up you can find some more info about your favorite beers by categories and stay up to date with new info about new beers coming out. Stay tuned!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+> **Go to [Website](https://gil-Beer-It-Up.netlify.app/)**
 
-### `npm test`
+<br />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Technologies 👨‍💻
 
-### `npm run build`
+![HTML Icon](https://i.ibb.co/9tyHGr7/html-logo.png, "HTML")
+![CSS Icon](https://i.ibb.co/b3QNSgX/css-logo.png, "CSS")
+![SASS Icon](https://i.ibb.co/2M5yfGb/sass-logo.png, "SASS")
+![JavaScript Icon](https://i.ibb.co/L5RS8g1/Group-11.png, "JavaScript")
+![React Icon](https://i.ibb.co/BBFKyz9/Group-9.png, "React")
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br />
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Screenshots 🎮
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Beer-It-Up Home](https://i.ibb.co/JK87vzv/beer-it-up-1.png)
 
-### `npm run eject`
+<br />
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Beer-It-Up Home Popup](https://i.ibb.co/VByrYv7/beer-it-up-2.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<br />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Beer-It-Up Beers Catalog](https://i.ibb.co/drZb4mK/beer-it-up-3.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<br />
 
-## Learn More
+![Beer-It-Up Beer Details](https://i.ibb.co/RY8XmcG/beer-it-up-4.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br />
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Video 🎥
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+https://user-images.githubusercontent.com/96532357/154420370-5ed5f3b2-d44d-40a7-8075-5ebbc0a3a73c.mp4
