@@ -13,7 +13,7 @@
 
 Are your a beer geek? On Beer-It-Up you can find some more info about your favorite beers by categories and stay up to date with new info about new beers coming out. Stay tuned!
 
-> **Go to [Website](https://gil-Beer-It-Up.netlify.app/)**
+> **Go to [Website](https://gil-beer-it-up.netlify.app/)**
 
 <br />
 
