@@ -1,10 +1,9 @@
 import "./BeersList.scss";
-import useFetchBeers from "../hooks/useFetchBeers";
+import useFetchBeers from "../../hooks/useFetchBeers";
 import BeerCard from "./BeerCard";
 
 const BeersList = ({ selected, setSelectedBeer }) => {
   const beers = useFetchBeers(selected);
-  console.log("beers: ", beers);
 
   return (
     <div className="beers-list-container">

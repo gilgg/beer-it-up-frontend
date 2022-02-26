@@ -47,4 +47,4 @@ Are your a beer geek? On Beer-It-Up you can find some more info about your favor
 
 # Video 🎥
 
-https://user-images.githubusercontent.com/96532357/154420370-5ed5f3b2-d44d-40a7-8075-5ebbc0a3a73c.mp4
+https://user-images.githubusercontent.com/96532357/155858367-7d262026-b395-4165-9a92-32b4bfc5ac40.mp4

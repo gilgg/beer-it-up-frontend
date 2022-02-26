@@ -1,9 +1,9 @@
 import "./App.scss";
+import { useState } from "react";
 import { Switch, Route, Redirect } from "react-router-dom";
 import HomePage from "./pages/HomePage";
-import BeerPage from "./pages/BeerPage";
 import BeersPage from "./pages/BeersPage";
-import { useState } from "react";
+import BeerPage from "./pages/BeerPage";
 
 const App = () => {
   const [selectedBeer, setSelectedBeer] = useState(null);

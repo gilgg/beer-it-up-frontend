@@ -4,7 +4,6 @@ import { useDispatch } from "react-redux";
 import { Link } from "react-router-dom";
 
 const SubscribeCard = ({ setShowPopup }) => {
-  console.log("in subscribeCard");
   const dispatch = useDispatch();
   const inputRef = useRef();
   const [isSubscribed, setIsSubscribed] = useState(false);
